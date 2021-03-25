@@ -150,6 +150,50 @@ body{
   padding:5px;
   padding-left: 400px;
 }
+
+.bottom{
+  display: flex;
+  justify-content: space-between;
+padding: 35px;
+
+background-color: #040434;
+}
+.bottom .bottom1{
+  list-style: none;
+  color:white;
+}
+.bottom .bottom1 .social{
+  list-style: none;
+  color:#ccc;
+  padding-bottom: 15px;
+}
+.bottom .bottom2{
+  list-style: none;
+  color:white;
+}
+.bottom .bottom2 .about{
+  list-style: none;
+  color:#ccc;
+  padding-bottom: 15px;
+}
+.bottom .bottom3{
+  list-style: none;
+  color:white;
+}
+.bottom .bottom3 .help{
+  list-style: none;
+  color:#ccc;
+  padding-bottom: 15px;
+}
+.bottom .query1{
+  color:#ccc;
+  padding-top: 15px;
+}
+.bottom .query{
+  color:white;
+  padding-top: 15px;
+}
+
 @media screen and (max-width:900px)
 {
   .bar1{
